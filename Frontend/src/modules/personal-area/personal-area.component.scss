@@ -1,0 +1,42 @@
+.create-personal-area {
+}
+
+.create-personal-name {
+  display: flex;
+}
+
+.personal-area-info {
+  margin: 20px;
+}
+
+.create-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.create-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.create-list-link {
+  margin-right: 30px;
+}
+
+.create-list-link-info {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.link-email {
+  margin-left: 10px;
+}
+
+.display-text {
+  display: none;
+}

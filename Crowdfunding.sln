@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowdfunding", "Crowdfunding.csproj", "{9AC1B50A-8A85-45E8-B50A-E81E5F97BF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "Frontend\Frontend.csproj", "{DABFDB51-D2C2-43C5-B74E-C3BEEFBDB058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC1B50A-8A85-45E8-B50A-E81E5F97BF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC1B50A-8A85-45E8-B50A-E81E5F97BF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC1B50A-8A85-45E8-B50A-E81E5F97BF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC1B50A-8A85-45E8-B50A-E81E5F97BF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABFDB51-D2C2-43C5-B74E-C3BEEFBDB058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABFDB51-D2C2-43C5-B74E-C3BEEFBDB058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABFDB51-D2C2-43C5-B74E-C3BEEFBDB058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABFDB51-D2C2-43C5-B74E-C3BEEFBDB058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

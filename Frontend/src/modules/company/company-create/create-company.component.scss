@@ -1,0 +1,39 @@
+.create-company {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.create-company__form {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.create-company__primary {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  
+  > * {
+    margin: 10px !important;
+  }
+}
+
+.create-company__image-section {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  
+  .fileUploader {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .fileContainer {
+    margin: 0;
+    flex-grow: 1;
+  }
+}
